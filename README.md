@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InakiArrizabalagaNoguera
 - 👀 I’m interested in computer science, cybersecurity, programming languages, sports, games and much more
-- 🌱 I’m currently learning cybersecurity at Institut montilivi
+- 🌱 I’m currently studying cybersecurity at Institut montilivi
 - 📫 How to reach me: noguera.arri.i@gmail.com
 
 <!---
